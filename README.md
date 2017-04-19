@@ -16,7 +16,7 @@
 1. Features : 교통사고와 관련되었을것이라 예상되는 변수들(기상조건, 유류 소비량, 운전자수, 인구 변동 등)
 
 
-> #### 프로젝트 내용
+> #### 주요 내용
 1. Data preprocessing : 기본적인 회귀 분석, Statsmodel을 사용한 feature selection
 1. Regularization : L2(Lasso) 모델을 이용한 Regularization 및 feature selection
 1. 아웃라이어 테스트 (Leverage vs Normalized residuals squared)
