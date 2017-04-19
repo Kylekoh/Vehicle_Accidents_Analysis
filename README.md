@@ -17,8 +17,8 @@
 
 
 > #### 프로젝트 내용
-1. Data preprocessing : 기본적인 회귀 분석, featuring selection using statsmodel
-1. Regularization : L2(Lasso) 모델을 이용한 
+1. Data preprocessing : 기본적인 회귀 분석, Statsmodel을 사용한 feature selection
+1. Regularization : L2(Lasso) 모델을 이용한 Regularization 및 feature selection
 1. 아웃라이어 테스트 (Leverage vs Normalized residuals squared)
 1. StratifiedKFold 통한 모델 검증 
 
